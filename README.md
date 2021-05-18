@@ -1,14 +1,5 @@
-# interview-challeges
+# my example website
 
-Please see the individual folders' `INSTRUCTIONS.md` for instructions.
-
-When running through these, please feel free to fork or create local 
-copies as needed. There is room within these little challenges to 
-approach in a number of ways - perhaps there is no single 'correct' answer,
-so please be prepared to talk through the solutions!
-
-## pre-requisites
-
- * Docker, Docker Compose
- * Terraform (>= v0.13)
- * Git
+user needs to be created on the nginx container with which nginx needs running.
+also the permissions needs to given the working directory and temp directories associated with the nginx.
+nginx config files needs to be updated. 
